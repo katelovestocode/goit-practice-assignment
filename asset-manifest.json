@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-practice-assignment/static/css/main.1ae259fd.css",
+    "main.js": "/goit-practice-assignment/static/js/main.782cf8b5.js",
+    "index.html": "/goit-practice-assignment/index.html",
+    "main.1ae259fd.css.map": "/goit-practice-assignment/static/css/main.1ae259fd.css.map",
+    "main.782cf8b5.js.map": "/goit-practice-assignment/static/js/main.782cf8b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ae259fd.css",
+    "static/js/main.782cf8b5.js"
+  ]
+}
